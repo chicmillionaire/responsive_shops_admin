@@ -1,10 +1,27 @@
 {
-  "name": "react",
-  "version": "0.0.0",
+  "name": "dashboard",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "@babel/core": "^7.0.0",
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@iconscout-react-unicons": "*",
+    "@mui/material": "^5.8.7",
+    "@testing-library/dom": ">=7.21.4",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^14.2.1",
+    "@types/react": "^17.0.0 || ^18.0.0",
+    "apexcharts": "^3.35.3",
+    "framer-motion": "^6.4.2",
+    "react": "^18.2.0",
+    "react-apexcharts": "^1.4.0",
+    "react-circular-progressbar": "^2.1.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "typescript": "^3.2.1 || ^4",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
