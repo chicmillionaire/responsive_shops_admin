@@ -35,9 +35,10 @@ export const SidebarData = [
     icon: UilChart,
     heading: 'Analytics'
   },
-]; 
+];
 
-export const CardsData = [
+//Analytics Cards Data
+export const cardsData = [
   {
     title: "Sales",
     color: {
